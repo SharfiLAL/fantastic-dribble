@@ -72,5 +72,7 @@ Furthermore, AI can aid in improving manual testing of applications but the huma
 
 Sources:
 https://www.globalapptesting.com/blog/types-of-manual-testing
+
 https://www.browserstack.com/guide/decision-table
+
 https://dev.to/nithyakala_krishnasamy_39/future-of-manual-testing-in-the-age-of-ai-1j93
